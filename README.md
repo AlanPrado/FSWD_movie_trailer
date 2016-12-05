@@ -13,12 +13,21 @@ When you run the project it will start a local http server.
 
 Within the download you'll find the following directories and files.
 ```
-¦   media.py					#movie model
-¦   movie_trailer_generator.py 	#generates html based on a list of movie model
-¦   simple_server.py 			#serves the content as html
-¦   entertaiment_center.py 		#managed the application
-+---images						#store image posters
++ root
++-- media.py
++-- movie_trailer_generator.py
++-- simple_server.py
++-- entertaiment_center.py
++--- images
 ```
+
+A brief description about each python file:
+
+1. media.py: movie model
+2. movie_trailer_generator.py: generates html based on a list of movie model
+3. simple_server.py: serves the content as html
+4. managed the application
+5. directory to store image posters
 
 ## Copyright and license
 Code and documentation copyright 2016-2016 Code released under the [MIT License](https://github.com/AlanPrado/movie_trailer/master/LICENSE)
