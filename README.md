@@ -31,3 +31,10 @@ A brief description about each python file:
 
 ## Copyright and license
 Code and documentation copyright 2016-2016 Code released under the [MIT License](https://github.com/AlanPrado/movie_trailer/master/LICENSE)
+
+
+## Authors
+
+#### Original Author and Development Lead
+
+- Alan Thiago do Prado (aprado.cnsp@gmail.com)
