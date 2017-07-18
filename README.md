@@ -1,4 +1,4 @@
-#Project: Movie Trailer Website
+# Project: Movie Trailer Website
 
 "Movie Trailer Website" is an application to show a list of my favourite movies.
 When you run the project it will start a local http server.
